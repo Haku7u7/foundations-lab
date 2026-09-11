@@ -1,0 +1,1 @@
+Prepositorio donde praticare Git y fundamentos de desarollo de sofware
